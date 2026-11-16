@@ -3,3 +3,4 @@ Espresso : 15 DH
 Cappuccino : 22 DH
 Thé à la menthe : 12 DH
 Cheesecake : 28 DH
+Jus d'orange: 20 DH

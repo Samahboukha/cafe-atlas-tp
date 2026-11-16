@@ -8,4 +8,4 @@ Petit site vitrine pour pratiquer Git et GitHub.
 - Carte des produits dans data/menu.txt
 
 ## Auteur
-À compléter avec votre nom.
+Samah
