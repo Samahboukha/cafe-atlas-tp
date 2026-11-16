@@ -9,3 +9,4 @@ Petit site vitrine pour pratiquer Git et GitHub.
 
 ## Auteur
 Samah
+Contact : contact@cafe-atlas.example
